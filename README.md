@@ -1,4 +1,3 @@
-GRR20182557
 Gustavo Valente Nunes
 
 Trabalho de Otimização - Escalonamento de máquinas
